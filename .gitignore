@@ -1,0 +1,25 @@
+
+# Dependencias de Node.js
+node_modules/
+.npm/
+
+# Archivos compilados de Vite
+dist/
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local
+.vscode/
+.idea/
